@@ -12,7 +12,7 @@ A beautiful, interactive web-based game built with Next.js, TypeScript, and Tail
 ## 💡 The Intention (What I Want to Convey)
 **"Life is full of unexpected hurdles. Prove that you have the resilience to overcome all 20 of them."**
 
-The deep intention behind *Flappy student* is to convey a powerful, relatable message about perseverance, mental health, and self-belief. Throughout the game, you don't just dodge green pipes; you face real-life emotional obstacles like **Self-Doubt**, **Procrastination**, and **Fear of Failure**. 
+The deep intention behind *Flappy student* is to convey a powerful, relatable message about perseverance, mental health, and self-belief. Throughout the game, you don't just dodge blue pipes; you face real-life emotional obstacles like **Self-Doubt**, **Procrastination**, and **Fear of Failure**. 
 
 When you inevitably hit an obstacle in the game (and in life), the screen delivers a crucial reminder: 
 *"It's okay to fall—just dust yourself off and try again!"* 
@@ -22,8 +22,6 @@ The ultimate goal of this project is to navigate through 20 of life's toughest h
 ---
 
 ## 📸 Screenshots
-
-*(Developer Note: Make sure you drag your screenshots secretly onto the main page of your GitHub repository so they show up here!)*
 
 ### 1. Choose Your Avatar
 ![Choose Your Bird](choose-bird.png)
