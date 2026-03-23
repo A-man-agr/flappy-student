@@ -23,25 +23,25 @@ The ultimate goal of this project is to navigate through 20 of life's toughest h
 
 ## 📸 Screenshots
 
-*(Developer Note: Add your exact screenshots into your "public" folder and update these links to match their names!)*
+*(Developer Note: Make sure you drag your screenshots secretly onto the main page of your GitHub repository so they show up here!)*
 
 ### 1. Choose Your Avatar
-![Choose Your Bird](public/choose-bird.png)
+![Choose Your Bird](choose-bird.png)
 
 ### 2. Get Ready for the Journey
-![Get Ready](public/get-ready.png)
+![Get Ready](get-ready.png)
 
 ### 3. Face Your Hurdles (e.g., Self-Doubt)
-![Gameplay](public/gameplay.png)
+![Gameplay](gameplay.png)
 
 ### 4. Dust Yourself Off
-![Obstacle Hit](public/obstacle-hit.png)
+![Obstacle Hit](obstacle-hit.png)
 
 ### 5. Crossing the Finish Line
-![Finish Line](public/win.png)
+![Finish Line](win.png)
 
 ### 6. Victory & Resilience (Certificate)
-![Congratulations](public/congratulations.png)
+![Congratulations](congratulations.png)
 
 ---
 
