@@ -1,6 +1,6 @@
 # Flappy Aman
 
-A web-based Flappy Bird clone built with Next.js, TypeScript, and Tailwind CSS.
+A web-based Flappy Bird with twist o todays world built with Next.js, TypeScript, and Tailwind CSS.
 
 ## Getting Started
 
