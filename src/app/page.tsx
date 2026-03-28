@@ -364,7 +364,13 @@ export default function Home() {
 
     const handleMouseDown = (e: MouseEvent | TouchEvent) => {
       const target = e.target as HTMLElement;
-      if (target.tagName.toLowerCase() === 'button' || target.closest('button') || target.tagName.toLowerCase() === 'input') return;
+      if (
+        target.tagName.toLowerCase() === 'button' ||
+        target.closest('button') ||
+        target.tagName.toLowerCase() === 'input' ||
+        target.tagName.toLowerCase() === 'a' ||
+        target.closest('a')
+      ) return;
       if (e.type === 'touchstart') e.preventDefault();
       flap();
     };
